@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 # API 
-It is being developed with a free api which is the "Weather by API-Ninjas" api from the RapidApi.com website.
+It is being developed with a free api which is the "Weather by API-Ninjas" api from the [RapidApi.com](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/) website.
 
 ## Development server
 
