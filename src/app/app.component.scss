@@ -7,17 +7,29 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  animation: gradient 2s infinite alternate linear;
+ background: hsl(224, 38%, 41%);
+}
+
+
+@keyframes gradient {
+
+  100% {
+   background: hsl(338, 38%, 41%);
+    }
+
 }
 .container-card{
   margin-top: 5rem;
-  width: 70%;
-  height: 50%;
+  width: 30%;
+  height: 60%;
   background-color: rgb(224, 224, 231);
   border-radius: 55px;
+  z-index: 4;
 }
 .header{
   width: 100%;
-  height: 20%;
+  height: 15%;
 
   form{
     width: 100%;
@@ -65,3 +77,4 @@
     }
   }
 }
+
